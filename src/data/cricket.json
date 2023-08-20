@@ -1,0 +1,27 @@
+
+{
+    "match1": {
+        "no":1,
+        "team1": "India",
+        "team2": "Pakistan",
+        "location": "Sigra",
+        "Date": "30-01-2023",
+        "Time": "9:10 A.M"
+    },
+    "match2": {
+        "no":2,
+        "team1": "austria",
+        "team2": "germany",
+        "location": "BHU Library",
+        "Date": "28-01-2023",
+        "Time": "9:40 P.M"
+    },
+    "match3": {
+        "no":3,
+        "team1": "australia",
+        "team2": "britain",
+        "location": "Elecetrical Dept",
+        "Date": "20-01-2023",
+        "Time": "2:45 p.m."
+    }
+}

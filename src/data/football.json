@@ -1,0 +1,26 @@
+{
+    "match1": {
+        "no":1,
+        "team1": "Real Madrid",
+        "team2": "Barcelona",
+        "location": "USA",
+        "Date": "27-01-2023",
+        "Time": "9:30 A.M"
+    },
+    "match2": {
+        "no":2,
+        "team1": "austria",
+        "team2": "germany",
+        "location": "BHU Library",
+        "Date": "28-01-2023",
+        "Time": "9:40 P.M"
+    },
+    "match3": {
+        "no":3,
+        "team1": "brazil",
+        "team2": "southafrica",
+        "location": "Elecetrical Dept",
+        "Date": "29-01-2023",
+        "Time": "9:34 P.M"
+    }
+}

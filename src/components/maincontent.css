@@ -1,0 +1,70 @@
+.mainbox{
+    display: flex;
+    height: fit-content;
+}
+.leftsidebar{
+ height: 100vh;
+ position: fixed;
+
+ width: 5vw;
+    display: flex;
+    flex-direction: column;
+  justify-content : center;
+  background-color: rgb(207, 207, 214);
+  
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    transition-duration: 0.4s;
+    background-color: rgb(207, 207, 214);
+    padding: 1vh 0.5vw;
+    margin: 1vh 0vh;
+}
+.icon:hover{
+    transform: scale(1.3);
+
+}
+.btn{
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+/* starting the css for the middle content */
+.maincontent{
+    width: 92vw;
+    position: absolute;
+    left:5vw
+
+}
+/* css for above pic */
+.pics{
+    height: 90vh;
+}
+.pics img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    
+
+    
+}
+/* css for above matches details */
+.box1{
+    display: grid;
+    grid-template-columns:1fr 3fr 2fr 2fr 2fr;
+    padding: 2vh 2vw;
+    margin: 2vh 1vw;
+    border: 0px solid black;
+    box-shadow: 2px 2px 2px black;
+    width: 85vw;
+    background-color: rgb(239, 238, 238);
+}
+
+.rivals{
+    display: flex;
+    flex-direction: row;
+    gap: 2vh;
+    justify-content: center;
+}
